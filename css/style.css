@@ -1,0 +1,74 @@
+ul{
+    list-style-type: none;
+    margin: 0px;
+    padding: 0px;
+    overflow: hidden;
+    background: orange;
+}
+li{
+    float: left;
+}
+li,a{
+    padding:20px;
+    margin: 15px;
+    color: chocolate;
+
+}
+li a:hover{
+    background: crimson;
+}
+th,td{
+    border: 7px dotted purple;
+    padding: 10px;
+    margin: 10px;
+    font-family: C059;
+} table{
+    border-collapse: collapse;
+    width: 100%;
+    background: plum;
+  }
+  .fruits{
+      border: 2px solid purple;
+      background: pink;
+      color: black;
+      text-align: center;
+      padding: 20px;
+      margin: 20px;
+  }
+.cars{
+    border: 3px solid gold;
+    background: orange;
+    color: purple;
+    text-align: left;
+    padding: 10px;
+    margin: 10px;
+}
+.FRUITS{
+    border:4px dotted black ;
+    background: lightskyblue;
+    color: navy;
+    text-align: justify;
+    padding: 30px;
+    margin: 30px;
+}
+#school{
+    border: 3px dotted crimson;
+}
+label{
+    background: left;
+    color: navy;
+    text-align: justify;
+    padding: 0px;
+    margin: 0px;
+    border:2px dotted black ;
+    font-size: 10;
+}
+input{
+    background: pink;
+    color: black;
+    text-align: left;
+    padding: 0px;
+    margin: 0px;
+}
+
+
